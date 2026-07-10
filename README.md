@@ -66,4 +66,4 @@ The notebook explores sales patterns across:
 - LinkedIn: [www.linkedin.com/in/sahilkhan-data]
 - Email: [mdsahil0624@gmail.com]
 - GitHub: [https://github.com/sahilkhan-data]
-Than you
+  
