@@ -61,4 +61,9 @@ The notebook explores sales patterns across:
 ## 📁 Dataset Fields
 
 `User_ID`, `Cust_name`, `Product_ID`, `Gender`, `Age Group`, `Age`, `Marital_Status`, `State`, `Zone`, `Occupation`, `Product_Category`, `Orders`, `Amount`
+## 📫 Connect With Me
 
+- LinkedIn: [www.linkedin.com/in/sahilkhan-data]
+- Email: [mdsahil0624@gmail.com]
+- GitHub: [https://github.com/sahilkhan-data]
+Than you
